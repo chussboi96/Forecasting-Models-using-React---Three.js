@@ -1,0 +1,30 @@
+.ets-container {
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White text */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+  }
+  
+  .ets-title {
+    color: #27a776; /* Consistent with landing page */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  canvas {
+    background-color: transparent; /* White background for the chart */
+    border: 1px solid #27a776; /* Border color consistent with theme */
+    border-radius: 10px;
+    color: white;
+  }
+  
+  .ETS-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 113vh;
+    width: 100vw;
+  }

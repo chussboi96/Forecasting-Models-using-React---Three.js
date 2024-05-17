@@ -1,0 +1,25 @@
+{
+  "name": "forecasting-system-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "chart.js": "^4.4.2",
+    "cors": "^2.8.5",
+    "d3": "^7.9.0",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "papaparse": "^5.4.1",
+    "path": "^0.12.7",
+    "react-chartjs-2": "^5.2.0",
+    "sqlite3": "^5.1.7"
+  }
+}
