@@ -10,3 +10,7 @@ This repository contains implementations of various forecasting models for time 
 6. SVR (Support Vector Regression)
 7. LSTM (Long Short-Term Memory)
 8. Hybrid Model (ARIMA + ANN)
+
+
+
+Video: https://drive.google.com/file/d/1gtfnzL4XkpYNwT53606Yj2YdVdongYQn/view?usp=sharing
